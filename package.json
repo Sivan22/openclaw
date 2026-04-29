@@ -1737,6 +1737,7 @@
         "@lydell/node-pty",
         "croner",
         "dotenv",
+        "global-agent",
         "jiti",
         "json5",
         "jszip",
